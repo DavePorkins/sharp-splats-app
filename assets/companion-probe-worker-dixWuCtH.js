@@ -1,0 +1,1 @@
+(function(){"use strict";async function s(){try{const t=await fetch("/sharp-api/health",{cache:"no-store"});return t.ok&&(await t.json())?.app==="sharpsplats"}catch{return!1}}s().then(t=>postMessage(t))})();

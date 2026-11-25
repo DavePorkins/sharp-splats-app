@@ -1,27 +1,27 @@
 {
-  "_OrbitControls-CCAWTJ8m.js": {
-    "file": "assets/OrbitControls-CCAWTJ8m.js",
+  "_OrbitControls-DjlVdwdg.js": {
+    "file": "assets/OrbitControls-DjlVdwdg.js",
     "name": "OrbitControls"
   },
   "index.html": {
-    "file": "assets/main-Vec7GyTF.js",
+    "file": "assets/main-B7dAi9Ka.js",
     "name": "main",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_OrbitControls-CCAWTJ8m.js"
+      "_OrbitControls-DjlVdwdg.js"
     ],
     "css": [
       "assets/main-BeiXBhdw.css"
     ]
   },
   "share.html": {
-    "file": "assets/share-B80p4llY.js",
+    "file": "assets/share-Cvpaaka1.js",
     "name": "share",
     "src": "share.html",
     "isEntry": true,
     "imports": [
-      "_OrbitControls-CCAWTJ8m.js"
+      "_OrbitControls-DjlVdwdg.js"
     ]
   }
 }

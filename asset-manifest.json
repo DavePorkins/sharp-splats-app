@@ -4,15 +4,18 @@
     "name": "OrbitControls"
   },
   "index.html": {
-    "file": "assets/main-CJ8hUdIO.js",
+    "file": "assets/main-ByAA1LmJ.js",
     "name": "main",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_OrbitControls-B_MLGJRu.js"
     ],
+    "dynamicImports": [
+      "src/core/photo-depth-generation.js"
+    ],
     "css": [
-      "assets/main-BeiXBhdw.css"
+      "assets/main-B1LW_8ga.css"
     ]
   },
   "share.html": {
@@ -20,6 +23,15 @@
     "name": "share",
     "src": "share.html",
     "isEntry": true,
+    "imports": [
+      "_OrbitControls-B_MLGJRu.js"
+    ]
+  },
+  "src/core/photo-depth-generation.js": {
+    "file": "assets/photo-depth-generation-Qga_eVEM.js",
+    "name": "photo-depth-generation",
+    "src": "src/core/photo-depth-generation.js",
+    "isDynamicEntry": true,
     "imports": [
       "_OrbitControls-B_MLGJRu.js"
     ]

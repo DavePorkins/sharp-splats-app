@@ -1,15 +1,15 @@
 {
-  "_OrbitControls-Bc859Dg5.js": {
-    "file": "assets/OrbitControls-Bc859Dg5.js",
+  "_OrbitControls-ZSMyK79K.js": {
+    "file": "assets/OrbitControls-ZSMyK79K.js",
     "name": "OrbitControls"
   },
   "index.html": {
-    "file": "assets/main-CT4YSzLK.js",
+    "file": "assets/main-DcFyTZvj.js",
     "name": "main",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_OrbitControls-Bc859Dg5.js"
+      "_OrbitControls-ZSMyK79K.js"
     ],
     "dynamicImports": [
       "src/core/photo-depth-generation.js"
@@ -19,21 +19,21 @@
     ]
   },
   "share.html": {
-    "file": "assets/share-DiPBmsxm.js",
+    "file": "assets/share-74udalCq.js",
     "name": "share",
     "src": "share.html",
     "isEntry": true,
     "imports": [
-      "_OrbitControls-Bc859Dg5.js"
+      "_OrbitControls-ZSMyK79K.js"
     ]
   },
   "src/core/photo-depth-generation.js": {
-    "file": "assets/photo-depth-generation-yTDPB2cz.js",
+    "file": "assets/photo-depth-generation-DreZJRKR.js",
     "name": "photo-depth-generation",
     "src": "src/core/photo-depth-generation.js",
     "isDynamicEntry": true,
     "imports": [
-      "_OrbitControls-Bc859Dg5.js"
+      "_OrbitControls-ZSMyK79K.js"
     ]
   }
 }

@@ -4,7 +4,7 @@
     "name": "OrbitControls"
   },
   "index.html": {
-    "file": "assets/main-ByAA1LmJ.js",
+    "file": "assets/main-ZwROoito.js",
     "name": "main",
     "src": "index.html",
     "isEntry": true,
@@ -28,7 +28,7 @@
     ]
   },
   "src/core/photo-depth-generation.js": {
-    "file": "assets/photo-depth-generation-Qga_eVEM.js",
+    "file": "assets/photo-depth-generation-CyMLLW0o.js",
     "name": "photo-depth-generation",
     "src": "src/core/photo-depth-generation.js",
     "isDynamicEntry": true,

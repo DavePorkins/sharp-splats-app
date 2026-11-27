@@ -7,9 +7,9 @@
     <link rel="icon" href="./SharpSplats.ico" sizes="any" />
     <link rel="apple-touch-icon" href="./SharpSplats.ico" />
     <title>Sharp Splats</title>
-    <script type="module" crossorigin src="./assets/main-Clrom2YI.js"></script>
-    <link rel="modulepreload" crossorigin href="./assets/OrbitControls-CPvut4_T.js">
-    <link rel="stylesheet" crossorigin href="./assets/main-DXLQJv0E.css">
+    <script type="module" crossorigin src="./assets/main-B0nOgbuc.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/OrbitControls-DDsoj1ad.js">
+    <link rel="stylesheet" crossorigin href="./assets/main-BR6zBpuC.css">
   </head>
   <body>
     <div id="app"></div>
@@ -21,6 +21,16 @@
         <button type="button" class="primary" data-generate-photo hidden>Foto → 3D-Splat erzeugen</button>
         <p class="file-hint" data-generation-status role="status" hidden></p>
       </section>
+    </template>
+    <template id="render-resolution-template">
+      <details class="render-resolution">
+        <summary>Render-Auflösung (<span data-resolution-value>100%</span>)</summary>
+        <div class="render-resolution-panel">
+          <div class="slider-label">Render-Auflösung <output>100%</output></div>
+          <input aria-label="Render-Auflösung" type="range" min="0.35" max="1.5" step="0.05" value="1">
+          <small>VR: ab dem nächsten Sitzungsstart</small>
+        </div>
+      </details>
     </template>
   </body>
 </html>

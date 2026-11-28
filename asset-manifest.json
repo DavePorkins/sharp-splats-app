@@ -4,7 +4,7 @@
     "name": "OrbitControls"
   },
   "index.html": {
-    "file": "assets/main-DkpiLow4.js",
+    "file": "assets/main-ChKQUuzY.js",
     "name": "main",
     "src": "index.html",
     "isEntry": true,
@@ -15,7 +15,7 @@
       "src/core/photo-depth-generation.js"
     ],
     "css": [
-      "assets/main-BR6zBpuC.css"
+      "assets/main-BsHEwEKF.css"
     ]
   },
   "share.html": {
